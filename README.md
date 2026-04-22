@@ -3,7 +3,7 @@
 ## Overview
 Build and evaluate machine learning models to predict hourly bike rental demand for Seoul's bike-share program using structured time series data and engineered temporal features. 
 
-Dataset: Seoul Bike Sharing dataset (UCI Machine Learning Repository)
+Dataset: [Seoul Bike Sharing Demand (UCI Machine Learning Repository)](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
 
 ## Models
 - Linear Regression  
